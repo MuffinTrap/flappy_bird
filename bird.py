@@ -1,5 +1,7 @@
 # Flappy bird made in python 2.7 and pygame
 # Images are from OpenGameArt.org
+# https://opengameart.org/users/mantis 
+# https://opengameart.org/users/etqws3
 #
 
 # We import the pygame module and random module that gives us random numbers
